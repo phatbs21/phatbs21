@@ -6,7 +6,7 @@
 <!-- I am a student at International University (IU) - VNU HCMC. I like to Code, Design, Innovate and Experiment. -->
 
 <h4 align="center">
-I am a student at International University (IU) - VNU HCMC. I like to Code, Design, Innovate and Experiment.
+I am a student at International University (IU) - VNU HCMC. I like to Code and Security.
 </h4>
 <br>
 <!--<div align="center">
