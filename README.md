@@ -50,11 +50,11 @@ I am a student at International University (IU) - VNU HCMC. I like to Code and S
   <!-- <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
 	<a href="mailto:lenguyentanphat@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
 	<a href="https://github.com/phatbs21"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
-	<a href="https://www.facebook.com/parohelious"><img src="https://img.icons8.com/bubbles/50/000000/facebook.png" title='Facebook' alt="Facebook"/></a>
+	<a href="https://www.facebook.com/profile.php?id=100093707221234"><img src="https://img.icons8.com/bubbles/50/000000/facebook.png" title='Facebook' alt="Facebook"/></a>
 	<a href="https://t.me/phatbs21"><img src="https://img.icons8.com/nolan/50/telegram-app.png" title='Telegram' alt="Telegram"/></a>
 	
 </p>
 
 ----
 
-Last Edited on: 08/22/2022
+Last Edited on: 08/27/2023
