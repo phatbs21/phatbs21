@@ -32,8 +32,6 @@ I am a student at International University (IU) - VNU HCMC. I like to Code and S
 <hr/>
 
 ## ⚡ Recent GitHub Activity
-<a href="https://github.com/phatbs21"><img alt="parrottos's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=phatbs21&custom_title=parrottos's%20Contribution%20Graph&theme=react-dark" /></a>
-
 
 <hr/>
 
