@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm parrottos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/phatbs21"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20Angular%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/phatbs21"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Reverse+engineering;Coding"></a>
 </p>
 <hr/>
 <!-- I am a student at International University (IU) - VNU HCMC. I like to Code, Design, Innovate and Experiment. -->
